@@ -1,16 +1,10 @@
-### Hi there 👋
-
-<!--
-**anniehau/anniehau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <samp>
+    :wave: **Hi!, I'm Annie! I'm a Web Development student at Trybe.**
+    <br>I consider myself a very creative person, so I love creating things.
+    <br>When I was little, I would work with software like Game Maker and Visual Studio C++ to
+    <br>express ideas that I had in my mind into something tangible.
+    <br>I'm finally pursuing that journey after joining Trybe, and am beginning to feel more
+    <br>confident about it!
+  </samp>
+</p>
