@@ -14,4 +14,5 @@
 <a href="mailto:anniehaurani@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="20"> Gmail</a><br>
 <a href="https://www.linkedin.com/in/annie-haurani/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20"> Linkedin</a><br><br>
 
-[![Annie's GitHub stats](https://github-readme-stats.vercel.app/api?username=anniehau&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Annie's GitHub stats](https://github-readme-stats.vercel.app/api?username=anniehau&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
