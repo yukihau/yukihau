@@ -15,4 +15,4 @@
 <a href="mailto:anniehaurani@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="20"> Gmail</a><br>
 <a href="https://www.linkedin.com/in/annie-haurani/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20"> Linkedin</a><br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=anniehau&show_icons=true&theme=buefy" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=anniehau&show_icons=true&theme=buefy" />
