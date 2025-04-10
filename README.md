@@ -1,7 +1,7 @@
 <h2>Hi, I'm Yuki!<img src="https://c.tenor.com/Dr5sZCODJ50AAAAi/mochi-mochi-hello-grey-cat-mochi-mochi.gif" width="75" /></h2>
 
 <h5>I'm a Web Developer currently working at @Cogna. My passion is creating things!</h5>
-<p>I have experience with many languages, such as Java, Kotlin, TypeScript and PHP. I have 3 years of experience with back-end, and a little less with front-end. I'm a strong advocate of following patterns and maintaining clean code for a more organized, scalable and maintanable code!<p>
+<p>I have experience with many languages, such as Java, Kotlin, TypeScript, Python and PHP. I have 3 years of experience with back-end, and a little less with front-end. I'm a strong advocate of following patterns and maintaining clean code for a more organized, scalable and maintanable code!<p>
 
 <h2>My values are...</h2>
 <p>
